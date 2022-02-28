@@ -1,0 +1,25 @@
+//Breville
+Order:Account:CurrencyIsoCode; Order:Account:Id; Order:Account:PersonEmail; Order:Account:PersonHasOptedOutOfEmail; Order:Account:FirstName; Order:Account:LastName; Order:Account:PersonMobilePhone; Order:Brand__c; Order:Cancel_date__c; Order:CancelledLineIds__c; Order:Channel__c; Order:Country__c; Order:CurrencyIsoCode; Order:Currency_Formula__c; Order:OrderCustomerType__c; Order:Id; Order:OrderNumber; Order:OrderCancelledEmailSentCust__c; Order:Sent_to_AX__c; Order:Shipping_Amount__c; Order:ShippingCountry; Order:ShippingCountryCode; Order:Source__c; Order:Status; Order:WebSiteOrderId__c; Order:WebSiteOrderNumber__c; Order:WebSiteUniqueOrderNumber__c; Order:Has_Mystery_Items__c; Order:HasBundleProducts__c; Order:ExactOfferCode__c;  
+//UK
+Order:Account:Id; Order:Account:PersonContactId; Order:Account:PersonEmail; Order:Account:PersonHasOptedOutOfEmail; Order:Account:FirstName; Order:Account:Gender__c; Order:Account:LastName; Order:Account:PersonMobilePhone; Order:Account:et4ae5__HasOptedOutOfMobile__pc; Order:Account:PersonTitle; Order:BillingCountry; Order:BillingCountryCode; Order:BillingStateCode; Order:BillingState; Order:BillingStreet; Order:Brand__c; Order:Cancel_date__c; Order:Cancellation_Received__c; Order:CancelledLineIds__c; Order:Channel__c; Order:ConsumerFirstName__c; Order:Currency_Formula__c; Order:TotalAmount; Order:OrderCustomerType__c; Order:Order_Grand_Total__c; Order:Id; Order:OrderInProcessEmailNotificationSent__c; Order:OrderNumber; Order:EndDate; Order:Order_Shipped_Date__c; Order:Order_shipped_notification_email_sent__c; Order:EffectiveDate; Order:Order_Tracking__c; Order:OrderCancelledEmailSentCust__c; Order:Sent_to_AX__c; Order:Ship_To_Name__c; Order:Shipping_Amount__c; Order:ShippingAmountTax__c; Order:ShippingCity; Order:ShippingCountry; Order:Shipping_Method__c; Order:Shipping_Method_Code__c; Order:ShippingState; Order:ShippingStreet; Order:ShippingPostalCode; Order:Source__c; Order:Status; Order:Tax__c; Order:WebSiteOrderId__c; Order:WebSiteOrderNumber__c; Order:WebSiteUniqueOrderNumber__c;  
+
+
+//Extra
+order:CurrencyIsoCode
+Order:Account:PreferredLanguage__c
+Order:Brand__c
+order:Country__c
+Order:ShippingCountryCode
+
+
+=========================================================================================================
+//Finally added
+Order:Account:CurrencyIsoCode
+Order:Account:PreferredLanguage__c
+Order:Country__c
+Order:CurrencyIsoCode
+Order:ExactOfferCode__c
+Order:HasBundleProducts__c
+Order:Has_Mystery_Items__c
+Order:ShippingCountryCode
+8
